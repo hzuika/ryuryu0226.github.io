@@ -11,11 +11,11 @@
 <!-- * [GitHub](https://github.com/ryuryu0226) -->
 
 ## 論文誌
-* R. Uramune, H. Ishizuka, T. Hiraki, Y. Kawahara, S. Ikeda, and O. Oshiro. "HaPouch: A Miniaturized, Soft, and Wearable Haptic Display Device Using a Liquid-to-Gas Phase Change Actuator." IEEE Access, vol.10, pp.16830-16842, 2022. [pdf](https://ieeexplore.ieee.org/document/9674885)
+* Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "HaPouch: A Miniaturized, Soft, and Wearable Haptic Display Device Using a Liquid-to-Gas Phase Change Actuator." IEEE Access, vol.10, pp.16830-16842, 2022. [pdf](https://ieeexplore.ieee.org/document/9674885)
 
 ## 国際会議
-* R. Uramune, H. Ishizuka, T. Hiraki, Y. Kawahara, S. Ikeda, and O. Oshiro. "HaPouch: Soft and Wearable Haptic Display Devices using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 ACM Symposium on User Interface Software and Technology (UIST2020), pp.53-55, 2020. [pdf](https://dl.acm.org/doi/10.1145/3379350.3416183)
-* R. Uramune, H. Ishizuka, T. Hiraki, Y. Kawahara, S. Ikeda, and O. Oshiro. "Inflatable Soft Haptic Device using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 Eurohaptics conference (Abstract only).
+* Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "HaPouch: Soft and Wearable Haptic Display Devices using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 ACM Symposium on User Interface Software and Technology (UIST2020), pp.53-55, 2020. [pdf](https://dl.acm.org/doi/10.1145/3379350.3416183)
+* Ryusei Uramune, Hiroki Ishizuka, Takefumi Hiraki, Yoshihiro Kawahara, Sei Ikeda, and Osamu Oshiro. "Inflatable Soft Haptic Device using Liquid-to-gas Phase Change Actuator." Proceedings of the 2020 Eurohaptics conference (Abstract only).
 
 ## 国内会議
 * 浦宗龍生，池田聖，石塚裕己，大城理：頭部移動中の3次元注視点に基づく固視検出評価法，ユビキタス・ウェアラブルワークショップ，2021
