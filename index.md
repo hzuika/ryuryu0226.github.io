@@ -7,7 +7,7 @@
 * Osaka univ.
 * ryuryu19990226@gmail.com
 * [Twitter](https://twitter.com/ryuryu19990226)
-* [Zenn](https://kamino.hatenablog.com/archive)
+* [Zenn](https://zenn.dev/ryuryu)
 <!-- * [GitHub](https://github.com/ryuryu0226) -->
 
 ## 論文誌
